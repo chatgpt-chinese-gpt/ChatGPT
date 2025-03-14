@@ -1,6 +1,6 @@
 # ChatGPT 中文版是什么？国内如何使用ChatGPT中文版！（最新ChatGPT使用指南）
 
-> **更新时间： 2025/03/14**     
+> **更新时间： 2025/03/15**     
 
 **全面体验 [ChatGPT 中文版](https://snakegpt.work)，无需翻墙，支持 GPT-4 和多功能应用！**  
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.work)使用指南**，同时整理了国内可用的 **[ChatGPT镜像网站](https://snakegpt.work)** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
