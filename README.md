@@ -1,4 +1,4 @@
-# ChatGPT 中文版是什么？国内如何使用ChatGPT中文版！（最新ChatGPT使用指南）
+# ChatGPT 中文版是什么？国内如何使用ChatGPT？
 
 > **更新时间： 2025/03/15**     
 
