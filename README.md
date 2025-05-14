@@ -6,7 +6,7 @@
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.com.cn)使用指南**，同时整理了国内可用的 **[ChatGPT镜像网站](https://snakegpt.com.cn)** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 ChatGPT 中文版：[https://snakegpt.com.cn](https://snakegpt.com.cn)   
-ChatGPT 镜像网站：[https://chat2.chat2.chat2.gptcat.cc/](https://chat2.chat2.chat2.gptcat.cc/)
+ChatGPT 镜像网站：[https://chat2.gptcat.cc/](https://chat2.gptcat.cc/)
 
 ---
 
@@ -39,7 +39,7 @@ ChatGPT 镜像网站：[https://chat2.chat2.chat2.gptcat.cc/](https://chat2.chat
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
 | **蛇语 AI**         | [snakegpt.com.cn](https://snakegpt.com.cn) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 中文支持、支持 GPT4 和MJ绘图 |
-| **GPT 猫中文站**     | [chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)      | GPT-4 ，GPT-o1，canvas       | 有 | 国内邮箱注册     | 高     | 支持最新的GPT-o1-pro，实时语音对话，视频对话|
+| **GPT 猫中文站**     | [chat2.gptcat.cc](https://chat2.gptcat.cc)      | GPT-4 ，GPT-o1，canvas       | 有 | 国内邮箱注册     | 高     | 支持最新的GPT-o1-pro，实时语音对话，视频对话|
 | **熊猫 GPT**         | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 稳定快速，支持 API 调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 邮箱注册     | 中     | bug比较多，不大推荐 |
 
@@ -120,4 +120,4 @@ ChatGPT 镜像网站：[https://chat2.chat2.chat2.gptcat.cc/](https://chat2.chat
 ---
                                                                                                                                    
                                                                                  
-                                                                                                       
+                                                                                                         
