@@ -1,6 +1,6 @@
 # ChatGPT中文版：国内无需翻墙使用指南（支持GPT-4/4o）【6月持续更新】
 
-> **更新时间： 2025/06/15**     
+> **更新时间： 2025/06/16**     
 
 **全面体验 [ChatGPT 中文版](https://snakegpt.com.cn)，无需翻墙，支持 GPT-4 和多功能应用！**  
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.com.cn)使用指南**，同时整理了国内可用的 **[ChatGPT镜像网站](https://snakegpt.com.cn)** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
